@@ -1,4 +1,7 @@
 ````
+$ hex_issue_example $ mix deps.get
+...
+
 Failed to use "ecto" (versions 3.0.0-rc.0 and 3.0.0-rc.1) because
   apps/hex_issue/mix.exs requires ~> 3.0-rc
   phoenix_ecto (version 3.5.0) requires ~> 2.2 or ~> 3.0
